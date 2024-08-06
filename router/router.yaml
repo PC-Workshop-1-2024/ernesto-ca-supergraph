@@ -29,7 +29,7 @@ subscription:
          path: /
 
 ## Authentication and Authorization Module
- authentication:
+authentication:
   router:
     jwt:
       header_name: Authorization
